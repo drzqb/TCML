@@ -45,4 +45,4 @@
         Bagging算法生成的弱模型不存在强依赖关系且可以并行生成。
     
     常见的两类集成学习算法如下图所示：
-![img](images/ensemblelearning.png)
+![img](https://github.com/drzqb/TCML/tree/master/images/ensemblelearning.png)
