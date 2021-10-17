@@ -45,8 +45,8 @@
         Bagging算法生成的弱模型不存在强依赖关系且可以并行生成。
     
     常见的两类集成学习算法:
-        Boosting：AdaBoost、GBDT、XGBoost和LightGBM等，
-        Bagging：随机森林
+        Boosting：AdaBoost、GBDT、XGBoost和LightGBM等；
+        Bagging：RandomForest
         
 如下图所示：
 
