@@ -44,5 +44,10 @@
         Boosting算法生成的弱模型有很强的依赖关系，且弱模型是串行生成的；
         Bagging算法生成的弱模型不存在强依赖关系且可以并行生成。
     
-    常见的两类集成学习算法如下图所示：
-![img](https://github.com/drzqb/TCML/tree/master/images/ensemblelearning.png)
+    常见的两类集成学习算法:
+        Boosting：AdaBoost、GBDT、XGBoost和LightGBM等，
+        Bagging：随机森林
+        
+如下图所示：
+
+![img](images/ensemblelearning.png)
